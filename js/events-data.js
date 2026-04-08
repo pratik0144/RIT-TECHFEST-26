@@ -29,7 +29,7 @@ const eventsData = {
                 { name: "Sampath", phone: "9052523344" },
                 { name: "Poorvika", phone: "9632827927" }
             ],
-            poster_image_path: "images/posters/poster_1.png"
+            poster_image_path: "images/posters/Eco brick & filter challenge.png"
         },
         {
             id: 2,
@@ -53,7 +53,7 @@ const eventsData = {
                 { name: "Sampath", phone: "9052523344" },
                 { name: "Poorvika", phone: "9632827927" }
             ],
-            poster_image_path: "images/posters/poster_2.png"
+            poster_image_path: "images/posters/Build battle.png"
         },
         {
             id: 3,
@@ -83,7 +83,7 @@ const eventsData = {
                 { name: "Prarthan", phone: "7619425306" },
                 { name: "Omkar", phone: "9980819172" }
             ],
-            poster_image_path: "images/posters/poster_3.png"
+            poster_image_path: "images/posters/code->train->dominate.png"
         },
         {
             id: 4,
@@ -106,7 +106,7 @@ const eventsData = {
                 { name: "Vishwas", phone: "+91 79962 21355" },
                 { name: "Shashank", phone: "+91 93713 42742" }
             ],
-            poster_image_path: "images/posters/poster_4.png"
+            poster_image_path: "images/posters/AI Jack of all trades.png"
         },
         {
             id: 5,
@@ -126,7 +126,7 @@ const eventsData = {
             registration_link: "https://tuff-mauve.vercel.app/",
             whatsapp_group: "https://chat.whatsapp.com/DqVaX9Db8b4HgRCxyUM4Q2",
             contact_numbers: [],
-            poster_image_path: "images/posters/poster_5.png"
+            poster_image_path: "images/posters/Tuff the ultimate founders forum.png"
         },
         {
             id: 6,
@@ -146,7 +146,7 @@ const eventsData = {
             registration_link: null,
             whatsapp_group: null,
             contact_numbers: [],
-            poster_image_path: "images/posters/poster_6.png"
+            poster_image_path: "images/posters/Agentathon.png"
         },
         {
             id: 7,
@@ -185,7 +185,7 @@ const eventsData = {
                 { name: "Tejasvi Narayani", phone: "9731493943" },
                 { name: "Aakanksha B S", phone: "9036724753" }
             ],
-            poster_image_path: "images/posters/poster_7.png"
+            poster_image_path: "images/posters/upakaran.png"
         },
         {
             id: 8,
@@ -201,7 +201,7 @@ const eventsData = {
             registration_link: null,
             whatsapp_group: null,
             contact_numbers: [],
-            poster_image_path: "images/posters/poster_9.png"
+            poster_image_path: "images/posters/PI in the sky.png"
         },
         {
             id: 9,
@@ -217,7 +217,7 @@ const eventsData = {
             registration_link: null,
             whatsapp_group: null,
             contact_numbers: [],
-            poster_image_path: "images/posters/poster_10.png"
+            poster_image_path: "images/posters/Water Rocketry.png"
         },
         {
             id: 10,
@@ -240,7 +240,7 @@ const eventsData = {
                 { name: "Aadhya", phone: "+91 9515852977" },
                 { name: "Shivanjali", phone: "+91 8971524647" }
             ],
-            poster_image_path: "images/posters/poster_11.png"
+            poster_image_path: "images/posters/The final codon.png"
         },
         {
             id: 11,
@@ -265,7 +265,7 @@ const eventsData = {
             registration_link: "https://forms.gle/p2Pa7jPvE5fyfj6t5",
             whatsapp_group: null,
             contact_numbers: [],
-            poster_image_path: "images/posters/poster_12.png"
+            poster_image_path: "images/posters/Hardware Havoc.png"
         },
         {
             id: 12,
@@ -288,7 +288,7 @@ const eventsData = {
                 { name: "Nandhini", phone: "9480220918" },
                 { name: "Muskan", phone: "9036949184" }
             ],
-            poster_image_path: "images/posters/poster_13.png"
+            poster_image_path: "images/posters/Sensory Overload.png"
         },
         {
             id: 13,
@@ -311,7 +311,7 @@ const eventsData = {
                 { name: "Md Adnan", phone: "+91 895 127 5863" },
                 { name: "Azhar Begh", phone: "+91 600 565 9582" }
             ],
-            poster_image_path: "images/posters/poster_14.png"
+            poster_image_path: "images/posters/ThinkAI The AI arena.png"
         },
         {
             id: 14,
@@ -334,7 +334,7 @@ const eventsData = {
                 { name: "Syed Md Zuber", phone: "+91 9108332806" },
                 { name: "Keerthana SDS", phone: "+91 83414 81853" }
             ],
-            poster_image_path: "images/posters/poster_15.png"
+            poster_image_path: "images/posters/Innovatex Ideathon 2026.png"
         },
         {
             id: 15,
@@ -358,7 +358,7 @@ const eventsData = {
                 { name: "Shreeniketh", phone: "7483357391" },
                 { name: "Vishwas CM", phone: "8310098445" }
             ],
-            poster_image_path: "images/posters/poster_16.png"
+            poster_image_path: "images/posters/neural joystick.png"
         },
         {
             id: 16,
@@ -381,7 +381,7 @@ const eventsData = {
                 { name: "Sri Krishna KG", phone: "6362171039" },
                 { name: "Rajat AN", phone: "8431002631" }
             ],
-            poster_image_path: "images/posters/poster_17.png"
+            poster_image_path: "images/posters/hold the floor.png"
         },
         {
             id: 17,
@@ -406,7 +406,7 @@ const eventsData = {
                 { name: "Dr. Sini Anna Alex", phone: "9901287316" },
                 { name: "Dr. Rakesh Kalshetty", phone: "9731202250" }
             ],
-            poster_image_path: "images/posters/poster_18.png"
+            poster_image_path: "images/posters/witlock a trace remains.png"
         }
     ]
 };
